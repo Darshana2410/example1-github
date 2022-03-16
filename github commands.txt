@@ -1,0 +1,25 @@
+Git and GitHub Commands
+
+1. git config = config email and name
+2. git init = start a fresh new workspace local repositiory
+3. git clone = continue to existing project
+4. git remote add origin "link" = adding github repository to local repository
+5. git pull = from github to local server
+6. git push origin master = to github from local server whole workspace
+7. git status = check status of repository
+8. git add -A = add all files
+9. git commit -a -m "message" = commit all files with message
+10. git branch branchname = create new branch
+11. git merge branchname = combine two or more branches all together
+12. git rebase branchname = similar like merge but linear workflow is their and navigates better and also efficient
+13. git checkout branchname = switch to new branch from master/main branch
+14. ls = listout files present
+15. ssh-keygen = generate key for pushing code
+16. ssh -T git@github.com = authentication
+17. git push origin firstbranch = to push only branches not whole workspace
+18. git log = to see all commit with hash characters
+19. git checkout e4404301 = to revert back to past changes and uncommit the changes using hash characters
+
+
+Stashing, Tagging, renaming and deleting files
+
