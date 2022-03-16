@@ -4,7 +4,7 @@ Git and GitHub Commands
 2. git init = start a fresh new workspace local repositiory
 3. git clone = continue to existing project
 4. git remote add origin "link" = adding github repository to local repository
-5. git pull = from github to local server
+5. git pull origin branchname = from github to local server
 6. git push origin master = to github from local server whole workspace
 7. git status = check status of repository
 8. git add -A = add all files
