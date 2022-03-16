@@ -19,6 +19,9 @@ Git and GitHub Commands
 17. git push origin firstbranch = to push only branches not whole workspace
 18. git log = to see all commit with hash characters
 19. git checkout e4404301 = to revert back to past changes and uncommit the changes using hash characters
+20. git stash = to keep the files in dirty directory , untracked files not allowed only uncommitted files are allowed.
+21. git stash show, git stash list = to see the stashed files
+22. git stash apply = to get files reback.
 
 
 Stashing, Tagging, renaming and deleting files
